@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85C72EA-908F-49C7-9992-933DF7C1298C}|DA\\DA.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\da\\dainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85C72EA-908F-49C7-9992-933DF7C1298C}|DA\\DA.csproj|solutionrelative:da\\dainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\evaluacion\\mantenimiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|solutionrelative:evaluacion\\mantenimiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C337B9E0-305E-4811-9AB3-5C71CBC00C7B}|BL\\BL.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\bl\\blinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C337B9E0-305E-4811-9AB3-5C71CBC00C7B}|BL\\BL.csproj|solutionrelative:bl\\blinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\evaluacion\\mantenimiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|solutionrelative:evaluacion\\mantenimiento.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC84FC-A0BD-4EEC-B66B-BDF4CD07AAC7}|BE\\BE.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\be\\beinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC84FC-A0BD-4EEC-B66B-BDF4CD07AAC7}|BE\\BE.csproj|solutionrelative:be\\beinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|c:\\users\\y3r51n\\source\\repos\\evaluacion\\evaluacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1DB4AE86-6A00-4A80-8B5A-AC846F970E5A}|EVALUACION\\EVALUACION.csproj|solutionrelative:evaluacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mantenimiento.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Mantenimiento.aspx.cs",
+              "RelativeDocumentMoniker": "EVALUACION\\Mantenimiento.aspx.cs",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Mantenimiento.aspx.cs",
+              "RelativeToolTip": "EVALUACION\\Mantenimiento.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T22:05:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mantenimiento.aspx",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Mantenimiento.aspx",
+              "RelativeDocumentMoniker": "EVALUACION\\Mantenimiento.aspx",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Mantenimiento.aspx",
+              "RelativeToolTip": "EVALUACION\\Mantenimiento.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-22T21:54:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\BL\\BLInventario.cs",
+              "RelativeDocumentMoniker": "BL\\BLInventario.cs",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\BL\\BLInventario.cs",
+              "RelativeToolTip": "BL\\BLInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:22:20.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BEInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\BE\\BEInventario.cs",
+              "RelativeDocumentMoniker": "BE\\BEInventario.cs",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\BE\\BEInventario.cs",
+              "RelativeToolTip": "BE\\BEInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:11:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Web.config",
+              "RelativeDocumentMoniker": "EVALUACION\\Web.config",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\EVALUACION\\Web.config",
+              "RelativeToolTip": "EVALUACION\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-22T21:06:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\DA\\DAInventario.cs",
+              "RelativeDocumentMoniker": "DA\\DAInventario.cs",
+              "ToolTip": "C:\\Users\\Y3R51N\\source\\repos\\EVALUACION\\DA\\DAInventario.cs",
+              "RelativeToolTip": "DA\\DAInventario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:52:24.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

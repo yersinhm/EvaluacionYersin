@@ -1,0 +1,9 @@
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\bin\Debug\BE.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\bin\Debug\BE.pdb
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\obj\Debug\BE.csproj.Up2Date
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\obj\Debug\BE.dll
+C:\Users\Y3R51N\source\repos\EVALUACION\BE\obj\Debug\BE.pdb
